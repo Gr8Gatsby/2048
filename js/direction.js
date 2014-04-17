@@ -1,0 +1,4 @@
+function Direction() {
+	up: {},
+	down: {}
+}
